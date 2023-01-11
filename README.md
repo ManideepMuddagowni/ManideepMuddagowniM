@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manideep Muddagowni</h1>
 
-Hi, I'm Manideep Muddagowni, a passionate Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science. I have worked in data science for more than 1 year, and I have a track record of successfully implementing data science pipelines in production with practical expertise using ML-Ops, deep learning & machine learning. I also Love sequence Processing because it is deeply inspired by humans as our feeling, thoughts, emotions, sensations, language are sequential in nature if we can enable machine to understand sequence of information and act accordingly we can make significant progress towards true artificial intelligence.
+Hi, I'm Manideep Muddagowni, a passionate Data Scientist.I’m a Computer Science 💻 Post graduate Student from University Of Hertfordshire🎓.I am enhancing my knowledge with the latest development in the field of Data Science. I have worked in data science for more than 1 year, and I have a track record of successfully implementing data science pipelines in production with practical expertise using ML-Ops, deep learning & machine learning. I also Love sequence Processing because it is deeply inspired by humans as our feeling, thoughts, emotions, sensations, language are sequential in nature if we can enable machine to understand sequence of information and act accordingly we can make significant progress towards true artificial intelligence.
 
 I have technical experience and interest in -
 
@@ -8,6 +8,7 @@ I have technical experience and interest in -
    * Deep Learning
    * Natural Language Processing
    * MLOps and AIOps
+<p>I'm a knowledge seeker & I love to learn new 💻 Technologies.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
