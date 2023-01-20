@@ -8,7 +8,7 @@ I have technical experience and interest in -
    * Deep Learning
    * Natural Language Processing
    * MLOps and AIOps
-<p>I'm a knowledge seeker & I love to learn new 💻 Technologies.</p>
+<p>knowledge seeker & I love to learn new 💻 Technologies.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
